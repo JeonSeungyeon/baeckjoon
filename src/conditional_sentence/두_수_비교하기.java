@@ -2,7 +2,7 @@ package conditional_sentence;
 
 import java.util.Scanner;
 
-public class µÎ_¼ö_ºñ±³ÇÏ±â {
+public class ë‘_ìˆ˜_ë¹„êµí•˜ê¸° {
 
 	public static void main(String[] args) {
 

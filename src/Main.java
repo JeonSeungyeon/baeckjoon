@@ -3,19 +3,18 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int score = sc.nextInt();
+		Scanner sc= new Scanner(System.in);
+		int x = sc.nextInt();
+		int y = sc.nextInt();
 		
-		if(90 <= score && score <= 100) {
-			System.out.println('A');
-		} else if(80 <= score && score <= 89) {
-			System.out.println('B');
-		} else if(70 <= score && score <= 79) {
-			System.out.println('C');
-		} else if(60 <= score && score <=69)  {
-			System.out.println('D');
+		if( x > 0 && y > 0) {
+			System.out.println(1);
+		} else if( x < 0 && y > 0) {
+			System.out.println(2);
+		} else if( x < 0 && y <0) {
+			System.out.println(3);
 		} else {
-			System.out.println('F');
+			System.out.println(4);
 		}
 	}
 }

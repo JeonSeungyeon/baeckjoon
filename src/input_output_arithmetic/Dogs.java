@@ -1,6 +1,6 @@
 package input_output_arithmetic;
 
-public class °³ {
+public class Dogs {
 
 	public static void main(String[] args) {
 		System.out.println("|\\_/|");

@@ -2,7 +2,7 @@ package input_output_arithmetic;
 
 import java.util.Scanner;
 
-public class »çÄ¢¿¬»ê {
+public class ì‚¬ì¹™ì—°ì‚° {
 
 	public static void main(String[] args) {
 		int A;
